@@ -100,3 +100,4 @@ LRANGE red_packet_list_2 0 -1 获取对应list的所有值
 LLEN red_packet_list_2 获取list长度
 ```
 ***
+这些外部刚需已经配置好了，具体的项目内容可以直接下载zip，里面重要的我都写好了注释。如果不懂可以联系我QQ：1115106468
